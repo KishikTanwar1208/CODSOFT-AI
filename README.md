@@ -1,6 +1,6 @@
-# CODSOFT-AI INTERSHIP TASK 
+# CODSOFT-AI INTENRSHIP TASK 
 
-Project-Tasks 
+Artificial Intelligence Project-Tasks 
 compeleted  the with help of Google Search ,readed tutorials and Watch videos from youtube 
 
 TASK 1
